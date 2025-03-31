@@ -1,0 +1,6 @@
+framework module binarySearch {
+  umbrella header "binarySearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

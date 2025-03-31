@@ -1,0 +1,22 @@
+{
+  "name": "binarySearch",
+  "version": "0.0.1",
+  "summary": "binarySearch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zangconghui/binarySearch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zangconghui": "zangconghui@kanyun.com"
+  },
+  "source": {
+    "git": "https://github.com/zangconghui/binarySearch.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "binarySearch/Classes/*"
+}

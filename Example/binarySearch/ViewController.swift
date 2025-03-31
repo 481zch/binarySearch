@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import binarySearch
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        var res = binary_search(nums: [1], target: 1)
+        print("res = \(res)")
     }
 
     override func didReceiveMemoryWarning() {

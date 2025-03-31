@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'binarySearch'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of binarySearch.'
+  s.version          = '0.0.1'
+  s.summary          = 'binarySearch.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'binarySearch/Classes/**/*'
+  s.source_files = 'binarySearch/Classes/*'
   
   # s.resource_bundles = {
   #   'binarySearch' => ['binarySearch/Assets/*.png']
